@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    background-color: rgb(202, 238, 139);
+    color: rgb(16, 113, 138);
+    font-style: oblique;
+   
+}
+.fhead{
+    background-color: rgb(168, 95, 95);
+    margin:20px;
+    padding: 20px;
+    background-blend-mode: darken;
+    border-radius: 30px;
+    box-sizing: content-box;
+    column-gap: 40px;
+}
